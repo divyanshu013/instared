@@ -8,16 +8,8 @@
         "colors": ["#314755", "#26a0da"]
     },
     {
-        "name": "Hazel",
-        "colors": ["#77A1D3", "#79CBCA", "#E684AE"]
-    },
-    {
         "name": "Noon to Dusk",
         "colors": ["#ff6e7f", "#bfe9ff"]
-    },
-    {
-        "name": "YouTube",
-        "colors": ["#e52d27", "#b31217"]
     },
     {
         "name": "Cool Brown",
@@ -50,10 +42,6 @@
     {
         "name": "Lemon Twist",
         "colors": ["#3CA55C", "#B5AC49"]
-    },
-    {
-        "name": "Monte Carlo",
-        "colors": ["#CC95C0", "#DBD4B4", "#7AA1D2"]
     },
     {
         "name": "Horizon",
@@ -90,10 +78,6 @@
     {
         "name": "Purple Paradise",
         "colors": ["#1D2B64", "#F8CDDA"]
-    },
-    {
-        "name": "Stripe",
-        "colors": ["#1FA2FF", "#12D8FA", "#A6FFCB"]
     },
     {
         "name": "Sea Weed",
@@ -332,10 +316,6 @@
         "colors": ["#F0C27B", "#4B1248"]
     },
     {
-        "name": "Red Mist",
-        "colors": ["#000000", "#e74c3c"]
-    },
-    {
         "name": "Teal Love",
         "colors": ["#AAFFA9", "#11FFBD"]
     },
@@ -422,10 +402,6 @@
     {
         "name": "Twitch",
         "colors": ["#6441A5", "#2a0845"]
-    },
-    {
-        "name": "Atlas",
-        "colors": ["#FEAC5E", "#C779D0", "#4BC0C8"]
     },
     {
         "name": "Instagram",
@@ -773,10 +749,6 @@
         "colors": ["#41295a", "#2F0743"]
     },
     {
-        "name": "Radar",
-        "colors": ["#A770EF", "#CF8BF3", "#FDB99B"]
-    },
-    {
         "name": "Ibiza Sunset",
         "colors": ["#ee0979", "#ff6a00"]
     },
@@ -815,10 +787,6 @@
         "colors": ["#F0F2F0", "#000C40"]
     },
     {
-        "name": "Roseanna",
-        "colors": ["#FFAFBD", "#ffc3a0"]
-    },
-    {
         "name": "Honey Dew",
         "colors": ["#43C6AC", "#F8FFAE"]
     },
@@ -833,10 +801,6 @@
     {
         "name": "Can You Feel The Love Tonight",
         "colors": ["#4568DC", "#B06AB3"]
-    },
-    {
-        "name": "Very Blue",
-        "colors": ["#0575E6", "#021B79"]
     },
     {
         "name": "Love and Liberty",
@@ -923,20 +887,12 @@
         "colors": ["#283c86", "#45a247"]
     },
     {
-        "name": "Relay",
-        "colors": ["#3A1C71", "#D76D77", "#FFAF7B"]
-    },
-    {
         "name": "Alive",
         "colors": ["#CB356B", "#BD3F32"]
     },
     {
         "name": "Scooter",
         "colors": ["#36D1DC", "#5B86E5"]
-    },
-        {
-        "name": "Terminal",
-        "colors": ["#000000", "#0f9b0f"]
     },
     {
         "name": "Telegram",
