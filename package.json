@@ -1,5 +1,5 @@
 {
-  "name": "instared",
+  "name": "quotify",
   "version": "1.0.0",
   "description": "a bot to convert reddit top post to image and post it to facebook, twitter and insta",
   "main": "app.js",
