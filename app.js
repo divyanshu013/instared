@@ -28,7 +28,7 @@ app.get('/api/screenshot/:number', bot.screenshot);
 
 
 app.listen(app.get('port'), () => {
-	console.log('%s App is running on port %s mode', colors.green('✓'), app.get('port'), app.get('env')); 
+	console.log('%s App is running on port %s mode', colors.green('✓'), app.get('port'), app.get('env'));
 	console.log('  Press CTRL-C to stop\n');
 });
 
